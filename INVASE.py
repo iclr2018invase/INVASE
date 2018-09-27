@@ -1,5 +1,5 @@
 '''
-Personalized Variable Selection Code (PVS)
+Instance-wise Variable Selection (INVASE)
 for ICLR 2019 Conference
 '''
 
