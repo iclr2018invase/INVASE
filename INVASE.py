@@ -1,6 +1,5 @@
 '''
 Personalized Variable Selection Code (PVS)
-Written by Jinsung Yoon, 08/17/2018
 for ICLR 2019 Conference
 '''
 
